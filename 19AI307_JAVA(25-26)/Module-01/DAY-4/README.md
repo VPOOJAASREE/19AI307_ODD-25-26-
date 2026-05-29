@@ -27,8 +27,8 @@ To check whether an element is present more than once in an array.
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: Vishwaraj G
-RegisterNumber:  212223220125
+Developed by: V. POOJAA SREE
+RegisterNumber:  212223040147
 */
 ```
 
