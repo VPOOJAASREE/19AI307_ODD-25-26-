@@ -57,10 +57,10 @@ class prog {
 
 
 
-
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="855" height="243" alt="image" src="https://github.com/user-attachments/assets/8346ef13-0082-4b81-8d1a-6160f46e9640" />
+
 
 
 ## RESULT:
