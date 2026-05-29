@@ -28,8 +28,8 @@ To read two integer values and display the results of various relational operati
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Vishwaraj G
-RegisterNumber:  212223220125
+Developed by: V. POOJAA SREE
+RegisterNumber:  212223040147
 */
 ```
 
