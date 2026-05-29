@@ -1,4 +1,4 @@
-<img width="259" height="171" alt="image" src="https://github.com/user-attachments/assets/f6e45e48-aaa2-4f51-bfb9-53ae0fc6bcb7" /># Ex.No:2(E) ACCESS MODIFIERS
+# Ex.No:2(E) ACCESS MODIFIERS
 
 ## QUESTION:
 Define class Game with: Static variable maxScore = 500 Print max score via 3 different object references. Change via one object into 800, and print the output of previous maxScore and changed maxScore. 
@@ -62,7 +62,7 @@ class prog {
 
 ## OUTPUT:
 
-<img width="259" height="171" alt="image" src="https://github.com/user-attachments/assets/ecff0a31-8ab5-4ff0-b7c1-05584aed19df" />
+<img width="259" height="171" alt="image" src="https://github.com/user-attachments/assets/f4046f4f-9ee7-415b-8c2f-1ca622887b4e" />
 
 
 
