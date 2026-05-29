@@ -52,7 +52,9 @@ public class Main{
 }
 ```
 ## OUTPUT:
-![alt text](image.png)
+
+<img width="328" height="155" alt="image" src="https://github.com/user-attachments/assets/0713c6ba-9b5c-4b0f-b7e5-b37bcebaf36b" />
+
 
 
 ## RESULT:
