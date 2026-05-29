@@ -34,8 +34,8 @@ To calculate the train ticket fare based on the passenger's age, travel distance
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Vishwaraj G
-RegisterNumber:  212223220125
+Developed by: V. POOJAA SREE
+RegisterNumber:  212223040147
 */
 ```
 
