@@ -145,7 +145,8 @@ public class Main{
 ```
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="623" height="422" alt="image" src="https://github.com/user-attachments/assets/8f657edb-c98a-4545-acfb-8a340e51c693" />
+
 
 
 ## RESULT:
